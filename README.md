@@ -6,12 +6,13 @@ e estou estudando programação no Alura.
 
 ## Sobre esse perfil
 
-Esse perfil foi criado como parte de um projeto no Alura;
-Ele servirá como uma área para organizar meus projetos de estudos
-e provávelmente cairá em desuso ao final do ano.
+Esse perfil foi criado como parte de um projeto de estudo no Alura;
 
-## Per Aspera Ad Astra
-'pelas dificuldades as estrelas'
+Ele servirá como uma área para organizar meus outros projetos
+e provávelmente cairá em desuso no fim do ano.
+
+## Per Aspera Ad Astra☀️
+'Pelas dificuldades as estrelas'
 
 <!--
 **guife1106/guife1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
