@@ -13,6 +13,7 @@ e provávelmente cairá em desuso no fim do ano.
 
 ## Per Aspera Ad Astra☀️
 'Pelas dificuldades as estrelas'
+![](https://media1.tenor.com/m/Pt3WqGJBXLUAAAAd/blackhole-space.gif)
 
 <!--
 **guife1106/guife1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
